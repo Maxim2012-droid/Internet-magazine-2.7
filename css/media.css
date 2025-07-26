@@ -1,0 +1,163 @@
+@media (max-width: 1860px){
+    .img{
+        width: 250px;
+    }
+}
+
+@media (max-width: 1120px){
+    .time{
+        font-size: 14.5px;
+    }
+
+    .banner{
+        width: 275px;
+    }
+
+    #banner_text{
+        font-size: 32px;
+    }
+
+    .img{
+        width: 311px;
+    }
+
+    li{
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 680px){
+    .img{
+        width: 330px;
+    }
+
+    .banner{
+        position: relative;
+    }
+
+    #banner_text{
+        font-size: 35px;
+        width: 100%;
+        margin: 130px 0 0 110px;
+    }
+
+    header{
+        width: 131%;
+    }
+
+    .time{
+        opacity: 0;
+        width: 0%;
+        margin: 0;
+    }
+
+    nav{
+        align-items: center;
+        width: 100%;
+    }
+
+    li{
+        font-size: 26px;
+        margin: 0 0 0 40px;
+    }
+
+    footer{
+        width: 131%;
+    }
+
+    @keyframes banner1{
+    0%{opacity: 0;}
+    12.5%{opacity: 0;}
+    25%{opacity: 0;}
+    37.5%{opacity: 0;}
+    50%{opacity: 0;}
+    62.5%{opacity: 0;}
+    75%{opacity: 0;}
+    87.5%{opacity: 0;}
+    100%{opacity: 0;}
+}
+
+@keyframes banner2{
+    0%{opacity: 0;}
+    12.5%{opacity: 0;}
+    25%{opacity: 0;}
+    37.5%{opacity: 0;}
+    50%{opacity: 0;}
+    62.5%{opacity: 0;}
+    75%{opacity: 0;}
+    87.5%{opacity: 0;}
+    100%{opacity: 0;}
+}
+
+@keyframes banner3{
+    0%{opacity: 0;}
+    12.5%{opacity: 0;}
+    25%{opacity: 0;}
+    37.5%{opacity: 0;}
+    50%{opacity: 0;}
+    62.5%{opacity: 0;}
+    75%{opacity: 0;}
+    87.5%{opacity: 0;}
+    100%{opacity: 0;}
+}
+
+@keyframes banner4{
+    0%{opacity: 0;}
+    12.5%{opacity: 0;}
+    25%{opacity: 0;}
+    37.5%{opacity: 0;}
+    50%{opacity: 0;}
+    62.5%{opacity: 0;}
+    75%{opacity: 0;}
+    87.5%{opacity: 0;}
+    100%{opacity: 0;}
+}
+
+@keyframes banner5{
+    0%{opacity: 0;}
+    12.5%{opacity: 0;}
+    25%{opacity: 0;}
+    37.5%{opacity: 0;}
+    50%{opacity: 0;}
+    62.5%{opacity: 0;}
+    75%{opacity: 0;}
+    87.5%{opacity: 0;}
+    100%{opacity: 0;}
+}
+
+@keyframes banner6{
+    0%{opacity: 0;}
+    12.5%{opacity: 0;}
+    25%{opacity: 0;}
+    37.5%{opacity: 0;}
+    50%{opacity: 0;}
+    62.5%{opacity: 0;}
+    75%{opacity: 0;}
+    87.5%{opacity: 0;}
+    100%{opacity: 0;}
+}
+
+@keyframes banner7{
+    0%{opacity: 0;}
+    12.5%{opacity: 0;}
+    25%{opacity: 0;}
+    37.5%{opacity: 0;}
+    50%{opacity: 0;}
+    62.5%{opacity: 0;}
+    75%{opacity: 0;}
+    87.5%{opacity: 0;}
+    100%{opacity: 0;}
+}
+
+@keyframes banner8{
+    0%{opacity: 0;}
+    12.5%{opacity: 0;}
+    25%{opacity: 0;}
+    37.5%{opacity: 0;}
+    50%{opacity: 0;}
+    62.5%{opacity: 0;}
+    75%{opacity: 0;}
+    87.5%{opacity: 0;}
+    100%{opacity: 0;}
+}
+}
